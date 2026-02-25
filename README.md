@@ -12,12 +12,7 @@
 
 Want an easy way to customize the keymap?  I have a guide [https://www.keyboardhoarders.com/post/1288093071901/zmk-change-keymap-walkthrough](https://keyboard-hoarders.com/pages/guides-1)
 
-<img width="900" height="1709" alt="my_keymap-3" src="https://github.com/user-attachments/assets/e7869ef1-371d-4beb-997a-2e57da00d3d9" />
 
-#   Combo diagram.
-
-
-<img width="915" height="2294" alt="combos" src="https://github.com/user-attachments/assets/0c39e4ee-ecda-4e94-934f-a7b5405323d7" />
 
 
 
