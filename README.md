@@ -7,7 +7,8 @@
 4. this will open a list of connected devices. Find CorneWireless and connect
 5. Unlock keyboard by going to the last layer on your keyboard and use the zmk studio unlock key as shown in the keymap picture.
 
-![il_fullxfull 6886024620_quu0 jpg](https://github.com/user-attachments/assets/8c71c6dc-2ea5-4970-923f-6727532cd4f8)
+
+<img width="900" height="1379" alt="my_keymap (31)" src="https://github.com/user-attachments/assets/f2b798a6-1927-4c90-ba8d-41e73e669744" />
 
 
 Want an easy way to customize the keymap?  I have a guide [https://www.keyboardhoarders.com/post/1288093071901/zmk-change-keymap-walkthrough](https://keyboard-hoarders.com/pages/guides-1)
